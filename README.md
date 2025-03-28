@@ -1,4 +1,4 @@
-# ERC20 Midterm Project
+*# ERC20 Midterm Project
 
 This project is an implementation of an ERC20 token on the Ethereum blockchain. It is designed as part of a midterm assignment to demonstrate understanding of blockchain concepts and smart contract development.
 
@@ -72,6 +72,9 @@ This project is an implementation of an ERC20 token on the Ethereum blockchain. 
 2. Open [http://localhost:3000](http://localhost:3000) in your browser to interact with the application.
 
 ---
+
+3. Demo 
+![alt text](image.png)
 
 ## Testing
 
